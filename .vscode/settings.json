@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "controllerenums.h": "c",
+    "md4.h": "c",
+    "arm_math.h": "c",
+    "mkl05z4.h": "c",
+    "mkl25z4.h": "c",
+    "mk22f51212_lpuart.h": "c",
+    "mk22f51212_uart.h": "c",
+    "mk64f12_uart.h": "c"
+  }
+}
